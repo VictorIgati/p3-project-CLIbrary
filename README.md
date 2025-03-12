@@ -77,7 +77,7 @@ In the Books menu, you can:
 
 In the Categories menu, you can:
 - List all categories with book counts
-- Add new categories
+- Add ne categories
 - Update category names
 - Delete categories (with warning if books are assigned)
 
